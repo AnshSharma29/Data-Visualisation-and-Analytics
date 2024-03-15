@@ -1,0 +1,49 @@
+Match_No,Team_1,Team_2,Venue,Toss,Choice,Innings1_Run,Innings1_Balls,Innings1_Wickets,Innings2_Run,Innings2_Balls,Innings2_Wickets,Winner,Margin_Runs_or_Wickets
+1,New Zealand,United Kingdom,Ahemedabad,New Zealand,Ball,282,300,9,283,218,1,New Zealand,9W
+2,Pakistan,Netherlands,Hyderabad,Netherlands,Ball,286,294,10,205,246,10,Pakistan,81R
+3,Bangladesh,Afghanistan,Dharamshala,Bangladesh,Ball,156,224,10,158,208,4,Bangladesh,6W
+4,South Africa,Sri Lanka,New Delhi,SriLanka,Ball,428,300,5,326,269,10,South Africa,102R
+5,India,Australia,Chennai,Australia,Bat,199,297,10,201,248,4,India,6W
+6,New Zealand,Netherlands,Hyderabad,Netherlands,Ball,322,300,7,223,279,10,New Zealand,99R
+7,United Kingdom,Bangladesh,Dharamshala,Bangladesh,Ball,364,300,9,227,290,10,United Kingdom,137R
+8,Pakistan,Sri Lanka,Hyderabad,SriLanka,Bat,334,300,9,345,290,4,Pakistan,6W
+9,India,Afghanistan,New Delhi,Afghanistan,Bat,272,300,8,273,210,2,India,8W
+10,South Africa,Australia,Lucknow,Australia,Ball,311,300,7,177,345,10,South Africa,134R
+11,New Zealand,Bangladesh,Chennai,New Zealand,Ball,245,300,9,248,257,2,New Zealand,8W
+12,India,Pakistan,Ahemedabad,India,Ball,191,257,10,192,183,3,India,7W
+13,Afghanistan,United Kingdom,New Delhi,United Kingdom,Ball,284,299,10,215,243,10,Afghanistan,69R
+14,Australia,Sri Lanka,Lucknow,SriLanka,Bat,209,261,10,215,212,5,Australia,5W
+15,Netherlands,South Africa,Dharamshala,South Africa,Ball,245,258,8,207,257,10,Netherlands,38R
+16,New Zealand,Afghanistan,Chennai,Afghanistan,Ball,288,300,6,139,208,10,New Zealand,149R
+17,India,Bangladesh,Pune,Bangladesh,Bat,256,300,8,261,249,3,India,7W
+18,Australia,Pakistan,Bengaluru,Pakistan,Ball,367,300,9,305,273,10,Australia,62R
+19,Sri Lanka,Netherlands,Lucknow,Netherlands,Bat,262,298,10,263,290,5,Sri Lanka,5W
+20,South Africa,United Kingdom,Mumbai,United Kingdom,Ball,399,300,7,170,132,10,South Africa,229R
+21,India,New Zealand,Dharamshala,India,Ball,273,300,10,274,288,6,India,4W
+22,Afghanistan,Pakistan,Chennai,Pakistan,Bat,282,300,7,286,294,2,Afghanistan,8W
+23,South Africa,Bangladesh,Mumbai,South Africa,Bat,382,300,5,233,280,10,South Africa,149R
+24,Australia,Netherlands,New Delhi,Australia,Bat,399,300,8,90,126,10,Australia,309R
+25,Sri Lanka,United Kingdom,Bengaluru,United Kingdom,Bat,156,200,10,160,154,2,Sri Lanka,8W
+26,South Africa,Pakistan,Chennai,Pakistan,Bat,270,280,10,271,284,9,South Africa,1W
+27,Australia,New Zealand,Dharamshala,New Zealand,Ball,388,296,10,383,300,9,Australia,5R
+28,Netherlands,Bangladesh,Kolkata,Netherlands,Bat,229,300,10,142,254,10,Netherlands,87R
+29,India,United Kingdom,Lucknow,United Kingdom,Ball,229,300,9,129,209,10,India,100R
+30,Afghanistan,Sri Lanka,Pune,Afghanistan,Ball,241,297,10,242,272,3,Afghanistan,7W
+31,Pakistan,Bangladesh,Kolkata,Bangladesh,Bat,204,271,10,205,195,3,Pakistan,7W
+32,South Africa,New Zealand,Pune,New Zealand,Ball,357,300,4,167,213,10,South Africa,190R
+33,India,Sri Lanka,Mumbai,SriLanka,Ball,357,300,8,55,10,118,India,302R
+34,Afghanistan,Netherlands,Lucknow,Netherlands,Bat,179,279,10,181,189,3,Afghanistan,7W
+35,Pakistan,New Zealand,Bengaluru,Pakistan,Ball,401,300,6,200,153,1,Pakistan,21R
+36,Australia,United Kingdom,Ahemedabad,United Kingdom,Ball,286,297,10,253,289,10,Australia,33R
+37,India,South Africa,Kolkata,India,Bat,326,300,5,83,163,10,India,243R
+38,Bangladesh,Sri Lanka,New Delhi,Bangladesh,Ball,279,297,10,282,247,7,Bangladesh,7W
+39,Australia,Afghanistan,Mumbai,Afghanistan,Bat,291,300,5,293,281,7,Australia,3W
+40,United Kingdom,Netherlands,Pune,United Kingdom,Bat,339,300,9,179,224,10,United Kingdom,160R
+41,New Zealand,Sri Lanka,Bengaluru,New Zealand,Ball,171,280,10,172,140,5,New Zealand,5W
+42,South Africa,Afghanistan,Ahemedabad,Afghanistan,Bat,244,300,10,247,285,5,South Africa,5W
+43,Australia,Bangladesh,Pune,Australia,Ball,306,300,8,307,268,2,Australia,8W
+44,United Kingdom,Pakistan,Kolkata,United Kingdom,Bat,337,300,9,244,261,10,United Kingdom,93R
+45,India,Netherlands,Bengaluru,India,Bat,410,300,4,250,287,10,India,160R
+46,India,New Zealand,Mumbai,India,Bat,397,300,4,327,293,10,India,70R
+47,Australia,South Africa,Kolkata,South Africa,Bat,212,298,10,215,284,7,Australia,3W
+48,Australia,India,Ahemedabad,Australia,Ball,240,300,10,241,258,4,Australia,6W
